@@ -16,6 +16,8 @@ bool comparador(const Participante& a, const Participante& b) {
 }
 
 int main() {
+    _;
+
     int quant;
     cin >> quant;
     cin.ignore(); 
