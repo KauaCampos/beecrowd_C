@@ -1,6 +1,5 @@
 #include <stdio.h>
-int main()
-{
+int main() {
     int cem, cin, vin, dez, cinco, dois, um, cinquenta, vincin, dezcentavos, cincocentavos, umcentavo;
     double money;
 

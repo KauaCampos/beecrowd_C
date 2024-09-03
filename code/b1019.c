@@ -1,6 +1,5 @@
 #include <stdio.h>
-int main ()
-{
+int main () {
     int Tempo, Horas, Minutos, Segundos;
     scanf ("%d", &Tempo);
     Horas = Tempo / 3600;
